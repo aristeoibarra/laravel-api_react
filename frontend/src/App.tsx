@@ -1,6 +1,10 @@
+import { Container } from 'react-bootstrap';
+
 function App() {
   return (
-    <h1>Hello world</h1>
+    <Container >
+      <h1>Laravel + React</h1>
+    </Container>
   )
 }
 
